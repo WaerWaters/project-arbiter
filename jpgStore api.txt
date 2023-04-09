@@ -1,0 +1,23 @@
+get transaction history of collection
+https://server.jpgstoreapis.com/collection/fec7dfa59902eb40f65a62812662769962d5662f2a6bc2804b829881/transactions?page=1&count=50&name=&traits=e30%3D
+
+get transaction history of specific asset
+https://server.jpgstoreapis.com/token/fec7dfa59902eb40f65a62812662769962d5662f2a6bc2804b8298814865724d6f6e737465727347616e6733393631/tx-history?limit=5&offset=0
+
+get profile
+https://server.jpgstoreapis.com/user/addr1qy95g00rpy280qwszftyxcppqtm8k2lx05qq6yr4g58njcuujh79z72dujq2pk9qdp0998rtued8p0chmd0n0w7p4e9ssnuqfv/profile
+
+get all assets a user owns
+https://server.jpgstoreapis.com/user/stake1uyyt958zdagudvnnf28nda9w4y0hea84vlse6c526v9faagx3gu2t/assets
+
+get all current listing a user has
+https://server.jpgstoreapis.com/user/stake1uyyt958zdagudvnnf28nda9w4y0hea84vlse6c526v9faagx3gu2t/listings
+
+get all current "highest collection offers" a use has
+https://server.jpgstoreapis.com/collection/fec7dfa59902eb40f65a62812662769962d5662f2a6bc2804b829881/highest-collection-offer?userStakeKey=stake1uyyt958zdagudvnnf28nda9w4y0hea84vlse6c526v9faagx3gu2t
+
+get all transactions a user has
+https://server.jpgstoreapis.com/user/stake1uyyt958zdagudvnnf28nda9w4y0hea84vlse6c526v9faagx3gu2t/transactions?page=1
+
+might get transaction history of specific asset
+https://server.jpgstoreapis.com/token/fec7dfa59902eb40f65a62812662769962d5662f2a6bc2804b8298814865724d6f6e737465727347616e6733393631
